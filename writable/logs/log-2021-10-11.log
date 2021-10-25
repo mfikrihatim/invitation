@@ -1,0 +1,18 @@
+INFO - 2021-10-11 02:53:53 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-11 03:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 03:02:25 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-10-11 04:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 04:35:50 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-10-11 05:27:18 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-11 05:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 05:35:24 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-10-11 05:35:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 05:35:49 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-10-11 06:11:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 06:11:54 --> Controller "App\Controllers\undangan\Undangan" loaded.
+INFO - 2021-10-11 10:23:20 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-11 10:23:21 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-11 11:26:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-10-11 11:26:18 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-10-11 11:44:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-10-11 17:28:36 --> Controller "App\Controllers\base\Beranda" loaded.

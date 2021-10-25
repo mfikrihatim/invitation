@@ -1,0 +1,7 @@
+INFO - 2021-09-10 10:41:16 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-09-10 11:41:17 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-09-10 12:51:34 --> Controller "App\Controllers\base\Beranda" loaded.
+INFO - 2021-09-10 18:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-09-10 18:42:11 --> Controller "App\Controllers\admin\Admin" loaded.
+INFO - 2021-09-10 20:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2021-09-10 20:35:22 --> Controller "App\Controllers\admin\Admin" loaded.
